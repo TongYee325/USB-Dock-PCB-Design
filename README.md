@@ -32,12 +32,9 @@ The design utilizes the SL2.1A for signal distribution.
 Optimized for signal integrity and compact form factor.
 ![PCB Layout](pic/PCB_USB%20Expansion%20Dock.png)
 
-### 3D Rendering
-![3D View](pic/3D_USB%20Expansion%20Dock%20PC.png)
-
 ## Getting Started
 
-1. **JLCEDA Project**: You can open the `.eprj`
+1. **JLCEDA Project**: You can open the `.eprj` or `.json` file (if available) or the project folder in JLCEDA Standard/Pro edition.
 2. **Fabrication**: Export the Gerber files from the PCB editor to manufacture the board.
 3. **Assembly**: Solder the components according to the BOM (Bill of Materials). 
    - Ensure the SL2.1A is oriented correctly.
